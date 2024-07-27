@@ -4,7 +4,7 @@ This repository showcases a responsive header design using HTML, CSS, and JavaSc
 
 # Features
  <b> Responsive Navigation Menu: </b>  The header features a navigation menu that adjusts its layout based on the screen size. On smaller screens, the menu transforms into a hamburger menu for easy access. <br> 
- <b> Dropdown Menus: <b> Implemented using CSS and JavaScript to enhance the navigation experience. <bt> 
+ <b> Dropdown Menus: </b> Implemented using CSS and JavaScript to enhance the navigation experience. <bt> 
 <b> Sticky Header: </b> The header remains at the top of the page while scrolling, ensuring constant accessibility. <br>
 <b> Smooth Animations: </b> Includes smooth transitions and animations for a visually appealing interface. <br>
 # Technologies Used
